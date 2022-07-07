@@ -13,3 +13,4 @@ You can also filter the data through a number of filters. For example, in the sc
 There is a possibility if you enter a filter and no data is presented (as shown above) then there is no sighting data for that filter or set of filters. For example, there have not been any UFO sightings in Idaho. 
 
 ## Summary
+One drawback of this new design is that since there are so many filters, it is easy to get zero results. While there is a lot of data, it is pretty limited. There is only data from the United States and Canada in January of 2010. One recommendation is to add a "No Results" text in the center of the table so it is clear to the user that there isn't any available data for their filter request. Another recommendation is adding a drop-down menu option for each filter in addition to the text input. This will enable the user to view the possible filter items and decrease their chance of receiving zero results. 
